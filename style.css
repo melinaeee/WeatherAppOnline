@@ -1,0 +1,145 @@
+body {
+  background-color: orangered;
+  font-family: "Radio Canada", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: bisque;
+  padding: 50px 0px 10px 0px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: bisque;
+  padding: 0px 0px 50px 0px;
+}
+
+h3 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  color: bisque;
+}
+
+hr {
+  color: bisque;
+}
+
+ul {
+  font-size: 22px;
+  font-weight: bold;
+  color: bisque;
+}
+
+li {
+  list-style: none;
+  color: bisque;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+}
+
+.fa-cloud-moon {
+  font-size: 130px;
+  font-weight: bold;
+  position: relative;
+  left: 55px;
+  padding: 20px 0px 30px 0px;
+}
+.now {
+  font-size: 50px;
+  font-weight: bold;
+  color: bisque;
+  padding: 30px 0px 30px 10px;
+  position: relative;
+  left: 60px;
+  top: -25px;
+}
+
+.min-max {
+  text-align: right;
+  font-size: 22px;
+  font-weight: bold;
+  color: bisque;
+  position: relative;
+  left: 150px;
+  top: 15px;
+}
+
+.hum-wind {
+  font-size: 22px;
+  font-weight: bold;
+  color: bisque;
+  position: relative;
+  right: 0px;
+  top: 15px;
+}
+
+.search-bar {
+  text-align: center;
+  padding: 30px 0px 55px 0px;
+}
+
+.days {
+  text-align: center;
+  font-size: 24px;
+  color: bisque;
+  font-weight: bold;
+}
+
+.fa-sun {
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  left: 90px;
+}
+
+.fa-cloud-sun {
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  left: 90px;
+}
+
+.temp {
+  text-align: center;
+  color: bisque;
+  font-size: 22px;
+}
+
+.h4 {
+  font-weight: bold;
+}
+
+.tempUnit {
+  font-size: 26px;
+  font-weight: bold;
+  color: bisque;
+  text-decoration: none;
+}
+
+.units {
+  font-size: 20px;
+  font-weight: bold;
+  color: bisque;
+}
+
+.second-button {
+  display: block;
+  margin: 0 auto;
+  background-color: blue;
+  color: bisque;
+  font-weight: bold;
+  position: relative;
+  left: 190px;
+  bottom: 85px;
+}
