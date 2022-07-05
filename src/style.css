@@ -43,6 +43,12 @@ li {
   color: bisque;
 }
 
+a {
+  color: bisque;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .container {
   display: block;
   margin: 0 auto;
