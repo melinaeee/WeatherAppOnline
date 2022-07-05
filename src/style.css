@@ -43,15 +43,10 @@ li {
   color: bisque;
 }
 
-p {
-  color: bisque;
-  font-size: 18px;
-  font-weight: bold;
-}
-
 a {
   font-size: 18px;
   font-weight: bold;
+  color: blue;
 }
 
 .container {
